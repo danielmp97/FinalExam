@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\bin\Debug\WpfControlLibrarySMS.dll
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\bin\Debug\WpfControlLibrarySMS.pdb
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\UserControl1.g.cs
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS_MarkupCompile.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS_MarkupCompile.lref
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\UserControl1.baml
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS.g.resources
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS.Properties.Resources.resources
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS.dll
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\WpfControlLibrarySMS\obj\Debug\WpfControlLibrarySMS.pdb

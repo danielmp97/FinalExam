@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\bin\Debug\net8.0\SMSLibrary.deps.json
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\bin\Debug\net8.0\SMSLibrary.runtimeconfig.json
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\bin\Debug\net8.0\SMSLibrary.dll
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\bin\Debug\net8.0\SMSLibrary.pdb
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.dll
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\refint\SMSLibrary.dll
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.pdb
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\SMSLibrary.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Semester 4\Programming 3\FinalExam\SMSLibrary\obj\Debug\net8.0\ref\SMSLibrary.dll
